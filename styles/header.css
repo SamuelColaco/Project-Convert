@@ -1,0 +1,22 @@
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 10px;
+    padding: 50px  20px;
+}
+ header img{
+    object-fit: cover;
+}
+
+h1{
+    color: var(--blue-700);
+    font-size: 20px;
+    font-family: var( --fm-fmly-span);
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    line-height: 48px;
+}
